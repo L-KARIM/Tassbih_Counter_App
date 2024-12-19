@@ -15,7 +15,7 @@ Installation
 Clone this repository:
 bash
  code
-git clone https://github.com/yourusername/repo-name.git
+git clone https://github.com/L-KARIM/Tassbih_Counter_App
 Navigate to the project directory:
 bash
  code
@@ -29,10 +29,6 @@ bash
  code
 npm start
 
-
-Usage
-Step 1: Brief explanation of what users need to do to start using your project.
-Step 2: Example usage or screenshots (if applicable).
 Technologies Used
 HTML
 CSS
