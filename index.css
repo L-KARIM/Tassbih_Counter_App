@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://imgs.search.brave.com/csVvmZvsXbJsOya1BB2eGBiKQ7_dGy5o-t4xoudLXCE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5LzU3Lzg5Lzk0/LzM2MF9GXzk1Nzg5/OTQ2OV9GVm5JZ0lQ/dWgwZ2h0WEt3Y2o3/RWpuY2xjYjBKc245/Ry5qcGc");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+img{
+    position: top left;
+    height: 100px;
+    width: 100px;
+}
+
+button {
+    border: none;
+    color: white;
+    font-weight: bold;
+    height: 100px;
+    width: 700px;
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+
+#increment-btn {
+    background: rgba(51,27,27,255);
+}
+
+#save-btn {
+    background: rgba(51,27,27,255);
+}
+
+#save-el{
+    font-size: larger;
+    color: aliceblue;
+
+}
